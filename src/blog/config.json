@@ -1,0 +1,19 @@
+{
+  "title": "博客",
+  "bgColor": "#9e8f89",
+  "bgImg": {
+    "src": "bg.png"
+  },
+  "links": [
+    {
+      "id": "",
+      "href": "https://love-yoyo.github.io/blog/",
+      "className": "click-area",
+      "height": "160",
+      "width": "160",
+      "top": "316",
+      "left": "226",
+      "otherStyle": ""
+    }
+  ]
+}

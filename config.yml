@@ -1,0 +1,13 @@
+title: '博客'
+bgColor: '#fff'
+bgImg:
+  src: bg.jpg
+link:
+  id: ''
+  href: https://love-yoyo.github.io/blog/
+  className: click-area
+  height: 0
+  width: 0
+  top: 0
+  left: 0
+  otherStyle: ''
